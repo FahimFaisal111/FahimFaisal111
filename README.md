@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is Fahim. 
+
+I am passionate about two things in my life.
+🎮Gaming
+💻⚙️Programming
+I am not proficient enough in any of these things,but
+I have the will to reach that stage,
+And this profile will be the diary of my journey.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahimFaisal111)](https://github.com/FahimFaisal111/github-readme-stats)
 <!--
 **FahimFaisal111/FahimFaisal111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
